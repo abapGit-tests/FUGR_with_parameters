@@ -42,23 +42,19 @@
       <RSFDO>
        <PARAMETER>IMPORT_PARAMETER</PARAMETER>
        <KIND>P</KIND>
-       <INDEX> 001</INDEX>
       </RSFDO>
       <RSFDO>
        <PARAMETER>EXPORT_PARAMETER</PARAMETER>
        <KIND>P</KIND>
-       <INDEX> 002</INDEX>
       </RSFDO>
       <RSFDO>
        <PARAMETER>TABLES_PARAMETER</PARAMETER>
        <KIND>P</KIND>
        <STEXT>Table of Strings</STEXT>
-       <INDEX> 003</INDEX>
       </RSFDO>
       <RSFDO>
        <PARAMETER>CHANGING_PARAMETER</PARAMETER>
        <KIND>P</KIND>
-       <INDEX> 004</INDEX>
       </RSFDO>
      </DOCUMENTATION>
     </item>
