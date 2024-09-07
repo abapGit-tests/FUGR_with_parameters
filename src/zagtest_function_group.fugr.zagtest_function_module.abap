@@ -11,6 +11,8 @@ FUNCTION zagtest_function_module.
 *"     REFERENCE(CHANGING_PARAMETER) TYPE  C
 *"----------------------------------------------------------------------
 
+  " TEST CHANGE
+
   WRITE: import_parameter, export_parameter, changing_parameter.
 
 ENDFUNCTION.
