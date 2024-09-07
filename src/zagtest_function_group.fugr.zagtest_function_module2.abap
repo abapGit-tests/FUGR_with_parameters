@@ -9,6 +9,8 @@ FUNCTION ZAGTEST_FUNCTION_MODULE2.
 *"     REFERENCE(CHANGING_PARAMETER) TYPE  C
 *"----------------------------------------------------------------------
 
+  " TEST
+
   WRITE: import_parameter, export_parameter, changing_parameter.
 
 ENDFUNCTION.
