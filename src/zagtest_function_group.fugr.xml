@@ -82,12 +82,6 @@
        <TYP>C</TYP>
       </RSEXP>
      </EXPORT>
-     <TABLES>
-      <RSTBL>
-       <PARAMETER>TABLES_PARAMETER</PARAMETER>
-       <TYP>STRING_TABLE</TYP>
-      </RSTBL>
-     </TABLES>
      <DOCUMENTATION>
       <RSFDO>
        <PARAMETER>IMPORT_PARAMETER</PARAMETER>
@@ -96,11 +90,6 @@
       <RSFDO>
        <PARAMETER>EXPORT_PARAMETER</PARAMETER>
        <KIND>P</KIND>
-      </RSFDO>
-      <RSFDO>
-       <PARAMETER>TABLES_PARAMETER</PARAMETER>
-       <KIND>P</KIND>
-       <STEXT>Table of Strings</STEXT>
       </RSFDO>
       <RSFDO>
        <PARAMETER>CHANGING_PARAMETER</PARAMETER>
