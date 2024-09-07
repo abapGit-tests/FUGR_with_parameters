@@ -58,45 +58,6 @@
       </RSFDO>
      </DOCUMENTATION>
     </item>
-    <item>
-     <FUNCNAME>ZAGTEST_FUNCTION_MODULE2</FUNCNAME>
-     <SHORT_TEXT>test</SHORT_TEXT>
-     <IMPORT>
-      <RSIMP>
-       <PARAMETER>IMPORT_PARAMETER</PARAMETER>
-       <REFERENCE>X</REFERENCE>
-       <TYP>C</TYP>
-      </RSIMP>
-     </IMPORT>
-     <CHANGING>
-      <RSCHA>
-       <PARAMETER>CHANGING_PARAMETER</PARAMETER>
-       <REFERENCE>X</REFERENCE>
-       <TYP>C</TYP>
-      </RSCHA>
-     </CHANGING>
-     <EXPORT>
-      <RSEXP>
-       <PARAMETER>EXPORT_PARAMETER</PARAMETER>
-       <REFERENCE>X</REFERENCE>
-       <TYP>C</TYP>
-      </RSEXP>
-     </EXPORT>
-     <DOCUMENTATION>
-      <RSFDO>
-       <PARAMETER>IMPORT_PARAMETER</PARAMETER>
-       <KIND>P</KIND>
-      </RSFDO>
-      <RSFDO>
-       <PARAMETER>EXPORT_PARAMETER</PARAMETER>
-       <KIND>P</KIND>
-      </RSFDO>
-      <RSFDO>
-       <PARAMETER>CHANGING_PARAMETER</PARAMETER>
-       <KIND>P</KIND>
-      </RSFDO>
-     </DOCUMENTATION>
-    </item>
    </FUNCTIONS>
   </asx:values>
  </asx:abap>
